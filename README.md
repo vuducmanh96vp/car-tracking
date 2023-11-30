@@ -1,4 +1,4 @@
-# Car Tracking Demo
+# Car Tracking
 
 This demo showcases a simple Car Tracking system using Spring Boot, Kafka, and Google Maps. It allows you to track the real-time location of cars on a Google Map.
 
